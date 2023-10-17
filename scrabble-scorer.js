@@ -36,7 +36,7 @@ function initialPrompt() {
    console.log("Let's play some scrabble! Enter a word:");
 };
 
-let simpleScorer;
+let simpleScorer;  
 
 let vowelBonusScorer;
 
